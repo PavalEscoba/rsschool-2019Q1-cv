@@ -12,13 +12,38 @@
 7. Образование (в т.ч. курсы, семинары, лекции, онлайн-обучение)
 8. Уровень английского (тут стоит указать, какая именно практика была, как долго и т.д.) 
 
-1. Pavel Miatlitski (Метлицкий Павел Игоревич);
-2. Contacts:
+# Paval Miatlitski. Curricullum Vitae
+### Full Name  
+**Pavel Miatlitski** (Метлицкий Павел Игоревич, Мятліцкі Павел Ігаравіч);
+### Contacts:
   + **Email:** paval.escoba@gmail.com;
-  + **Velcom:** +375 44 78 77 401;
-3. Summary
-4. HTML(pug), CSS (SCSS), Javascript, React, XML, XSLT,  Git, ...
-5. Examples of code
-6. Experience 
-7. Education
-8. English level
+  + **Velcom (viber):** +375 44 78 77 401;
+  + **Skype:** paval.miatlitski
+
+### Summary:
+
+### Technologies
+     - HTML(pug), BEM-naming, CSS (SCSS), Adaptive layout, Flexbox etc;
+     - Javascript, Jquery, React, Angular etc;
+     - Git;
+     - Photoshop;
+     - Webpack 4, Gulp 3, 4,
+     - XML, XSLT;
+     - Nodejs;
+### Examples of code:
+  - **Culture Portal** [RSS 2018-Q3 task 1](https://github.com/svyatlo/rss-group-16)
+  - **Game (deep alpha)** [RSS 2018-Q3 task 2](https://github.com/PavalEscoba/game-1.0)
+  - **Mentor's Dashboard** [RSS 2018-Q3 task 3](https://github.com/PavalEscoba/dashboard-rss)
+### Experience 
+I have **one year** of working experience at [znaj.by](https://znaj.by/), as a bookmaker. Main responsibilities were to develop web versions of school books (5-11 grades) using XML, XSLT => HTML, SCSS and a bit of Jquery. After that I became a head of bookmaking department for a **half of year**;  
+Also I have freelance experience - https://www.realcard.by  
+And a bunch of trainings:
+  - [Rolling Scopes School 2018-Q3](https://school.rollingscopes.com/)
+  - [LoftSchool](https://loftschool.com/course/web-development/)
+  - [HTML Academy](https://htmlacademy.ru/intensive/adaptive)
+
+### Education
+EHU, Vilnius. [Media and Communications Department](https://en.ehu.lt/). Incomplete higher education.
+
+### English level
+B1-B2. 
