@@ -13,23 +13,27 @@
 8. Уровень английского (тут стоит указать, какая именно практика была, как долго и т.д.) 
 
 # Paval Miatlitski. Curricullum Vitae
-### Full Name  
-**Pavel Miatlitski** (Метлицкий Павел Игоревич, Мятліцкі Павел Ігаравіч);
+### Full Name
+**Pavel Miatlitski**  
+Мятліцкі Павел Ігаравіч  
+Метлицкий Павел Игоревич
 ### Contacts:
   + **Email:** paval.escoba@gmail.com;
-  + **Velcom (viber):** +375 44 78 77 401;
+  + **Velcom (viber):** +375 - 44 - 78 - 77 - 401;
   + **Skype:** paval.miatlitski
 
 ### Summary:
-
+  Main goals right now are to get maximum knowledge and skills from Rolling Scopes School and to find good job.  
+  As a junior-developer with some job experience I can say that relatively new technology can take from 1 till 4 weeks to learn the ropes and to give primary result.  
+  Good communicator, mature person without "teenage issues".
 ### Technologies
-     - HTML(pug), BEM-naming, CSS (SCSS), Adaptive layout, Flexbox etc;
-     - Javascript, Jquery, React, Angular etc;
-     - Git;
-     - Photoshop;
-     - Webpack 4, Gulp 3, 4,
-     - XML, XSLT;
-     - Nodejs;
+    - HTML(pug), BEM-naming, CSS (SCSS), Adaptive layout, flexbox etc;
+    - Javascript, Jquery, React, Angular etc;
+    - Git;
+    - Photoshop;
+    - Webpack 4, Gulp 3, 4,
+    - XML, XSLT;
+    - Nodejs;
 ### Examples of code:
   - **Culture Portal** [RSS 2018-Q3 task 1](https://github.com/svyatlo/rss-group-16)
   - **Game (deep alpha)** [RSS 2018-Q3 task 2](https://github.com/PavalEscoba/game-1.0)
@@ -46,4 +50,5 @@ And a bunch of trainings:
 EHU, Vilnius. [Media and Communications Department](https://en.ehu.lt/). Incomplete higher education.
 
 ### English level
-B1-B2. 
+B1-B2.  
+Last training I had was at August 2018 - Christian Language Camp with international team of mentors(Canada, USA, Philippines).
