@@ -353,6 +353,16 @@ p {
       -ms-transform: scale(1.4);
           transform: scale(1.4);
 }
+.technologies ul li i {
+  margin-right: 1rem;
+
+  color: #72d2fc;
+}
+
+.code-examples li {
+  margin-bottom: 0.5rem;
+}
+
 
 .contacts ul li {
   margin-bottom: 1rem;
