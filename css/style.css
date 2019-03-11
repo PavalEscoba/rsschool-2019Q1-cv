@@ -334,3 +334,26 @@ p {
 .author-pic__img {
   width: 100%;
 }
+.contacts p {
+  margin-bottom: 1rem;
+}
+
+.contacts a > i {
+  margin-right: 1.3rem;
+
+  -webkit-transition: -webkit-transform 0.2s ease-in;
+       -o-transition:         transform 0.2s ease-in;
+          transition: -webkit-transform 0.2s ease-in;
+          transition:         transform 0.2s ease-in;
+          transition:         transform 0.2s ease-in, -webkit-transform 0.2s ease-in;
+}
+
+.contacts a:hover i {
+  -webkit-transform: scale(1.4);
+      -ms-transform: scale(1.4);
+          transform: scale(1.4);
+}
+
+.contacts ul li {
+  margin-bottom: 1rem;
+}
