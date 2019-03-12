@@ -278,6 +278,11 @@ p {
   -webkit-clip-path: polygon(0 0, 100% 0, 100% calc(100% - 2vw), 0 100%);
           clip-path: polygon(0 0, 100% 0, 100% calc(100% - 2vw), 0 100%);
 }
+@media screen and (max-width: 620px) {
+  .header {
+    background-size: cover;
+  }
+}
 .header a {
   display: block;
 }
@@ -362,6 +367,9 @@ p {
 .code-examples li {
   margin-bottom: 0.5rem;
 }
+.education h4 {
+  margin-bottom: 1rem;
+}
 
 
 .contacts ul li {
@@ -392,7 +400,7 @@ article:nth-of-type(odd) {
 }
 article:nth-of-type(odd) h3 {
   text-align: right;
-  text-shadow: 0 0 10px #ffffff, 0 0 20px #ffffff, 0 0 30px #ffffff, 0 0 40px rgba(32, 178, 170, 0.7), 0 0 70px rgba(32, 178, 170, 0.7), 0 0 80px rgba(32, 178, 170, 0.7);
+  text-shadow: 0 0 10px #ffffff, 0 0 20px #ffffff, 0 0 30px #ffffff, 0 0 40px #72d2fc, 0 0 70px #72d2fc, 0 0 80px #72d2fc;
 }
 
 article:nth-of-type(even) {
