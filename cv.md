@@ -1,5 +1,11 @@
 # Paval Miatlitski. Curricullum Vitae
 
+| Resource 	| Adress                                                                    	|
+|----------	|---------------------------------------------------------------------------	|
+| GitHub   	| [wlukla](https://github.com/wlukla)                                      	|
+| Telegram 	| [wlukla](https://t.me/wlukla)                                             	|
+| Email    	| [vladislav.danilochkin@gmail.com](mailto:vladislav.danilochkin@gmail.com) 	|
+
 ### Full Name
 **Pavel Miatlitski**  
 Мятліцкі Павел Ігаравіч  
